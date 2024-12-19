@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 017ba07c0ac5dbe4c903d7ba5018b171, type: 3}
+  m_Name: Navigation
+  m_EditorClassIdentifier: 
+  _donneesPerso: {fileID: 11400000, guid: 95c59fb9e9d346b4a91793b477a67391, type: 2}

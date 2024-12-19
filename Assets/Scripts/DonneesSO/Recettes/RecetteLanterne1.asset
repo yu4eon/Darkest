@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5de145e4ff1d23e4baa7b48fcac2b1cf, type: 3}
+  m_Name: RecetteLanterne1
+  m_EditorClassIdentifier: 
+  _nomRecette: "Augmenter la port\xE9e niveau 1"
+  _typeItem: 0
+  _imgRecette: {fileID: 21300000, guid: 17a3ed3fd69f7884f92dbbb1d9615a5e, type: 3}
+  _prochaineRecette: {fileID: 11400000, guid: ff6b4853899948d4c983eec02e3701cc, type: 2}
+  dCoutsRessources:
+  - typeItem: {fileID: 11400000, guid: 80467eb64d86ef24cb68d94a20e9bab3, type: 2}
+    quantiteItemRessource: 5
+  - typeItem: {fileID: 11400000, guid: d8dd90b271e355f4a9188baf7d80c719, type: 2}
+    quantiteItemRessource: 4
